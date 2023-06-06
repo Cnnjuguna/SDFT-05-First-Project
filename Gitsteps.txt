@@ -1,0 +1,7 @@
+Create a repository on Github account.
+Check whether you have installed and configured Git locally.
+Initialize Git within the project you want to transport.
+Add our codebase to theGit transporter.
+Commit the codebase that was added.
+Create a connection between the local and the remote environment.
+Push the codebase to the remote.
